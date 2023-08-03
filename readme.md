@@ -3,5 +3,4 @@
 Some Text.
 
 # Demo 3 
-
-Some extra step in here.
+This text has been deleted.
